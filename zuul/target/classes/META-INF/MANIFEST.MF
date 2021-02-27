@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: otto
+Build-Jdk: 15.0.1
+Implementation-Title: zuul
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.emmanuelneri
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-cloud-n
+ etflix-proxy-apis/zuul/
+Created-By: Maven Integration for Eclipse
+
